@@ -1,6 +1,6 @@
 # n8n Pi-hole API client
 
-![Build](https://github.com/hugo-ma-alves/n8n-nodes-pihole/actions/workflows/build.yml/badge.svg)
+![Build](https://github.com/paulm-art/n8n-pihole2/actions/workflows/build.yml/badge.svg)
 [![NPM version][npm-version-image]][npm-url]
 [![NPM downloads][npm-downloads-image]][npm-downloads-url]
 
